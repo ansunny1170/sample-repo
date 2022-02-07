@@ -1,1 +1,1 @@
-이것은 github 테스트요
+main branch와 동일하게 맞춰보자
